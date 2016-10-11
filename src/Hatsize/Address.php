@@ -19,13 +19,20 @@
  * @copyright   2016 Hatsize Learning {@link http://hatsize.com}
  * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+
 namespace Hatsize;
 
-class LabUrl {
+class Address {
 
-  public $type = '';
+  public $address1 = '';
 
-  public $systemName = '';
+  public $address2 = '';
 
-  public $url = '';
+  public $city = '';
+
+  public $provinceState = '';
+
+  public $country = '';
+
+  public $postalCodeZip = '';
 }
