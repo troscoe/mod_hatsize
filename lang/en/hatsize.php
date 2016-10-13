@@ -28,6 +28,7 @@ $string['configwebservices'] = 'Web Services URL';
 $string['configwebservicesinfo'] = 'Enter the Web Services URL provided by Hatsize, such as: http://somesite.com';
 $string['configapikey'] = 'Web Services API Key';
 $string['configapikeyinfo'] = 'Cut & paste the web servies API Key provided by Hatsize into the field';
+$string['configrequiremodintro'] = 'This setting allows you to turn off the requirement for users to type something into the description box.';
 $string['contentheader'] = 'Content';
 $string['createurl'] = 'Create a URL';
 $string['displayoptions'] = 'Available display options';
@@ -45,6 +46,7 @@ $string['framesize'] = 'Frame height';
 $string['invalidstoredurl'] = 'Cannot display this resource, URL is invalid.';
 $string['chooseavariable'] = 'Choose a variable...';
 $string['invalidurl'] = 'Entered URL is invalid';
+$string['modeditdefaults'] = 'Default settings';
 $string['modulename'] = 'Hatsize Lab';
 $string['modulename_help'] = 'The Hatsize Lab module enables a teacher to provide a link to a Hatsize Lab environment as a course resource.
 
